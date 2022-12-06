@@ -1,7 +1,7 @@
 # InstaFollow
 
 ## React Component à réprendre en supprimant le Ban IP et les CORS Policy
-
+```
 import React, { useEffect, useState } from 'react';
 import axios from 'axios';
 
@@ -28,3 +28,4 @@ const Insta = () => {
 };
 
 export default Insta;
+```
